@@ -1,0 +1,7 @@
+&office=JUNIPER ROAD&
+&office_no=A16&
+&contactname=Emily & Christine&
+&phone=&
+&email=admin@thrivespot.com.au&
+&website=www.thrivespot.com.au&
+&services=Private Offices | Coworking | Meeting rooms | Training rooms&
