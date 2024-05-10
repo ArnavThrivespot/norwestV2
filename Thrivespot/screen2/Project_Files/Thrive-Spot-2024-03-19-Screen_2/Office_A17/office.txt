@@ -1,4 +1,4 @@
-&office=OFFICE A17    BOOK NOW!&
+&office=ADBO WORLD&
 &office_no=A17&
 &contactname=Syed Zaid&
 &phone=02 8607 1808&
