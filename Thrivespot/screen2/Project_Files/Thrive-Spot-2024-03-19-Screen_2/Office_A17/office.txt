@@ -1,7 +1,2 @@
-&office=ADBO WORLD&
+&office=OFFICE A17     BOOK NOW!&
 &office_no=A17&
-&contactname=Syed Zaid&
-&phone=02 8607 1808&
-&email=enquiries@sentegrate.com.au&
-&website=www.sentegrate.com.au&
-&services=Smart Home Products | Automation Control Systems | Lighting | Climate | Access and Entertainment Control&
