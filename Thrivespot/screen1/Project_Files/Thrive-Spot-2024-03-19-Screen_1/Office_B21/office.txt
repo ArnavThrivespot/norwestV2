@@ -1,7 +1,7 @@
-&office=OFFICE B21     BOOK NOW!&
+&office=JUNIPER ROAD&
 &office_no=B21&
-&contactname=Thrivespot Business Hub&
-&phone=02 8540 9327&
+&contactname=Emily & Christine&
+&phone=&
 &email=admin@thrivespot.com.au&
 &website=www.thrivespot.com.au&
 &services=Private Offices | Coworking | Meeting rooms | Training rooms&
