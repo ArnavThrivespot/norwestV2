@@ -1,7 +1,3 @@
-&office=OFFICE B22      BOOK NOW!&
+&office=ULAUNCH&
 &office_no=B22&
-&contactname=Thrivespot Business Hub&
-&phone=02 8540 9327&
-&email=admin@thrivespot.com.au&
-&website=www.thrivespot.com.au&
-&services=Private Offices | Coworking | Meeting rooms | Training rooms&
+
