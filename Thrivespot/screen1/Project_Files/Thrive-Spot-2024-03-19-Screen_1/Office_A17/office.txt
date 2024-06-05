@@ -1,4 +1,3 @@
-&office=EARTH EXCHANGE K and D LOGISTICS&
-
+&office=EARTH EXCHANGE K＆D LOGISTICS&
 &office_no=A17&
 
